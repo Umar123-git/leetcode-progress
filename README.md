@@ -12,7 +12,7 @@ I’m excited to share that I achieved this goal — and even surpassed it with 
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hyxk412lG6?theme=dark&font=JetBrains%20Mono)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hyxk412IG6?theme=dark&font=JetBrains%20Mono)
 
 
 ---
