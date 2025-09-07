@@ -7,7 +7,7 @@
 
 ---
 
-![Header](./1757252970132.Gemini_Generated_Image_c8j2q7c8j2q7c8j2 (1).png)
+![Header](./banner.png)
 
 ## 🚀 LeetCode Progress  
 
