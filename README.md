@@ -7,7 +7,7 @@
 
 ---
 
-![Header](./banner.png)
+![Header](./banner.png.png)
 
 ## 🚀 LeetCode Progress  
 
