@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./https://github.com/Umar123-git/leetcode-progress/blob/main/banner.png.png)
 
 # 👋 Hi, I'm Umar Yar  
 
