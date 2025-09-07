@@ -1,3 +1,5 @@
+![Header](./banner.png)
+
 # 👋 Hi, I'm Umar Yar  
 
 🎓 BS Data Science Student @ Punjab University  
@@ -6,8 +8,6 @@
 🌟 Passionate about Data Science, AI, and Web Development  
 
 ---
-
-![Header](./banner.png)
 
 ## 🚀 LeetCode Progress  
 
