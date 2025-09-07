@@ -7,6 +7,8 @@
 
 ---
 
+![Header](./banner.png)
+
 ## 🚀 LeetCode Progress  
 
 🌟 This month, I set myself a target of solving **60 problems on LeetCode**.  
