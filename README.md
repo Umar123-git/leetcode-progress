@@ -5,7 +5,7 @@
 
 🎓 BS Data Science Student @ Punjab University  
 💻 Practicing C++, Data Structures & Algorithms  
-🚀 Solved 61+ problems on LeetCode  
+🚀 Solved 100+ problems on LeetCode  
 🌟 Passionate about Data Science, AI, and Web Development  
 
 ---
