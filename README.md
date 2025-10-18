@@ -9,13 +9,15 @@
 🌟 Passionate about Data Science, AI, and Web Development  
 
 ---
+ 
+## 🧩 LeetCode Stats
 
-## 🚀 LeetCode Progress  
+<div align="left">
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/hyxk412IG6?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hyxk412IG6?theme=dark&font=JetBrains%20Mono)
+</div>
 
----
 
 ## 📊 GitHub Stats  
 
